@@ -1,0 +1,142 @@
+Here's a comprehensive website plan for Studio 19:266:
+
+## **STUDIO 19:266 - WEBSITE PLAN**
+
+### **Design Philosophy**
+Modern, sleek, and elegant with alternating black and white sections. Primary colors: black and white with gold (#d4af37) and blue (#1e90ff) accents. Clean, professional, luxury aesthetic throughout.
+
+---
+
+### **HEADER/NAVIGATION**
+- **Logo Placement**: Center of navigation bar
+  - "Studio 19:266" in gold lettering
+  - Modern, minimalist design
+  - Sticky header that stays at top while scrolling
+
+- **Left Navigation (3 tabs)**:
+  1. **Home** - Links to hero section
+  2. **Services** (with dropdown hover menu)
+     - Photography
+     - Video Editing
+  3. **Pricing** - Direct link to pricing section
+
+- **Right Navigation (3 tabs)**:
+  1. **About Us** - Studio background and team
+  2. **Contact** - Contact form and info
+  3. **Gallery** - Portfolio showcase
+
+- **Styling**: Black background (#0a0a0a) with white text, gold hover effects, smooth transitions
+
+---
+
+### **SECTIONS (Alternating Black/White)**
+
+**1. HERO SECTION (Black)**
+- Large, impactful headline: "Capture Your Moments in Luxury"
+- Subheading with gold accent color
+- Call-to-action button (gold with hover effect)
+- Subtle animated background elements
+- Modern typography with wide letter spacing
+
+**2. SERVICES SECTION (White)**
+- Grid layout showcasing main services
+- Cards with gold and blue gradient top border
+- Hover effects: lift up, shadow glow
+- Include: Portrait Photography, Event Coverage, Product Photography, Video Production, Editing Services, Commercial Shoots
+- Each card has icon, title, and brief description
+
+**3. PORTFOLIO/GALLERY SECTION (Black)**
+- 4-column grid layout
+- Showcase photography and videography work
+- Hover effects: gold border, scale up
+- Professional image placeholders with gradient overlays
+- View Gallery button with gold styling
+
+**4. PRICING SECTION (White)**
+- 3 tiered pricing cards (Basic, Professional, Premium)
+- Gold borders on cards
+- Clear package details
+- "Book Now" buttons with gold styling
+- Transparent pricing with no hidden fees
+
+**5. ABOUT US SECTION (Black)**
+- Team introduction with photos
+- Studio story and mission statement
+- Why choose Studio 19:266
+- Professional, welcoming tone
+- Team member cards with subtle blue/gold accents
+
+**6. TESTIMONIALS SECTION (White)**
+- Client reviews and ratings
+- 3-4 featured testimonials
+- Star ratings in gold
+- Client photos/names
+- Smooth carousel or grid layout
+
+**7. WHY CHOOSE US SECTION (Black)**
+- 6 feature blocks
+  - Professional Equipment
+  - Expert Team
+  - Quick Turnaround
+  - Competitive Pricing
+  - Custom Packages
+  - Luxury Experience
+
+**8. CONTACT SECTION (White)**
+- Contact form with fields: Name, Email, Service Type, Message
+- Contact information: Phone, Email, Address
+- Google Map embedded
+- Social media links in gold
+- Professional styling with blue/gold accents
+
+---
+
+### **FOOTER (Black)**
+- Logo and brief studio description
+- Quick links navigation
+- Contact info
+- Social media icons (Instagram, Facebook, LinkedIn, TikTok)
+- Copyright and privacy policy
+- Gold accent dividers
+
+---
+
+### **INTERACTIVE FEATURES**
+- Smooth scrolling between sections
+- Hover effects on all interactive elements
+- Dropdown menu for Services with smooth animation
+- Form validation on contact page
+- Image zoom on gallery hover
+- Sticky navigation header
+- Back-to-top button (subtle, gold)
+
+---
+
+### **COLOR SCHEME**
+- **Primary**: Black (#0a0a0a), White (#ffffff)
+- **Accent 1**: Gold (#d4af37)
+- **Accent 2**: Blue (#1e90ff)
+- **Text**: Dark gray (#333) on white, white on black
+- **Backgrounds**: Light gray (#f5f5f5) for subtle sections
+
+---
+
+### **TYPOGRAPHY**
+- **Headings**: Bold, modern sans-serif, wide letter-spacing
+- **Body**: Clean, readable sans-serif (Segoe UI, Roboto, or similar)
+- **Font Sizes**: Large headlines (42-56px), readable body text (14-16px)
+
+---
+
+### **ADDITIONAL FEATURES**
+- **Mobile Responsive**: Full adaptation for tablets and phones
+- **Fast Loading**: Optimized images and clean code
+- **SEO Ready**: Proper meta tags and structure
+- **Booking Integration**: Calendar or booking system
+- **Email Newsletter**: Subscribe form in footer
+- **Blog Section**: Photography tips and studio updates
+- **FAQ Section**: Common questions about services
+- **Virtual Tour**: 360-degree studio walkthrough
+- **Before/After Gallery**: Show editing transformations
+
+This plan creates a sophisticated, professional website that reflects the luxury and quality of Studio 19:266 while maintaining excellent user experience and navigation.
