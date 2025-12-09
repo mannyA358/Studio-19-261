@@ -1,0 +1,230 @@
+📄 Website Plan (Home, Pricing, Services, About, Contact, Gallery)
+1. HOME PAGE
+Main Sections
+
+Hero Section
+
+Business name
+
+One-sentence value statement (what you offer)
+
+Main CTA button (e.g., “Book Now” or “View Gallery”)
+
+Overview / Quick Intro
+
+Short paragraph about what you do (photography, videography, editing, etc.)
+
+Featured Services Preview
+
+3–4 short service summaries (each with a link to full services page)
+
+Highlights
+
+Why choose us (fast delivery, high quality, experience, affordable packages)
+
+Mini Gallery Preview
+
+4–6 images linking to full gallery
+
+Testimonials
+
+3 short client reviews
+
+Call to Action
+
+“Book a session” / “Get a quote” button
+
+2. PRICING PAGE
+Package Layout
+
+Photography Packages
+
+Package name
+
+What’s included
+
+Duration
+
+Number of edited photos
+
+Delivery time
+
+Price
+
+Videography Packages
+
+Package name
+
+What’s included
+
+Video length
+
+Editing included
+
+Price
+
+Combo Packages
+
+Photo + Video deals
+
+What’s included
+
+Price
+
+Add-ons
+
+Extra edited photos
+
+Travel fee
+
+Drone footage
+
+Rush delivery
+
+RAW files
+
+Notes
+
+Terms and conditions
+
+Deposit policy
+
+Cancellation rules
+
+3. SERVICES PAGE
+Main Categories
+
+Photography
+
+Events
+
+Studio shoots
+
+Portraits
+
+Product photography
+
+Weddings
+
+Videography
+
+Event coverage
+
+Short ads
+
+Promos
+
+Music videos
+
+Editing Services
+
+Photo editing
+
+Video editing
+
+Retouching
+
+Colour grading
+
+For Each Service
+
+Description
+
+What clients get
+
+Average delivery time
+
+Process overview (how it works)
+
+4. ABOUT PAGE
+Sections
+
+Business Story
+
+How the studio started
+
+Mission and vision
+
+Who You Are
+
+Photographer / Videographer bio
+
+Skills and experience
+
+What Makes You Different
+
+Quality promise
+
+Quick turnaround
+
+Professional equipment
+
+Team Section (optional)
+
+Name + role + short description
+
+5. CONTACT PAGE
+Information
+
+Contact Form
+
+Name
+
+Email
+
+Phone
+
+Service needed
+
+Message
+
+Direct Contact
+
+Email address
+
+Phone number
+
+WhatsApp
+
+Business hours
+
+Location
+
+Studio address (optional)
+
+Map (optional)
+
+Social Links
+
+Instagram
+
+TikTok
+
+YouTube
+
+Facebook
+
+6. GALLERY PAGE
+Structure
+
+Categories
+
+Events
+
+Portraits
+
+Wedding shoots
+
+Product photography
+
+Behind the scenes
+
+Image Layout
+
+Grid or masonry
+
+Each category opens in a lightbox or full gallery
+
+Optional
+
+Short description or project info under each set
